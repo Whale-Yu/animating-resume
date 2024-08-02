@@ -2,9 +2,9 @@
 
 > 蟹老板的简历
 
-[点我查看会动的简历](https://crabboss-lab.github.io/animating-resume/public/)
+[点我查看会动的简历](https://whale-yu.github.io/animating-resume/public/)
 
-https://crabboss-lab.github.io/animating-resume/public/
+https://whale-yu.github.io/animating-resume/public/
 
 
 
